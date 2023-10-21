@@ -4,7 +4,3 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/raetselhaftesKEN/raetselhaftesKEN/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<picture>
-  <img alt="avatar" src="/static/avatar.png" />
-</picture>
-
